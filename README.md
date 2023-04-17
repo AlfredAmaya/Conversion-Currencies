@@ -1,5 +1,5 @@
 # Conversion-Currencies
-<h2>this is a basic conversion app  that consumes an api therefor allowing you to convert from a wide range of currencies</h2>
+<h2>this is a basic conversion app  that consumes an api therefore allowing you to convert from a wide range of currencies</h2>
 <h3>it also tells you the day the information was fetched, the conversion rate to dollars an de code of the currencies</h3>
 <img alt="Description" src="https://user-images.githubusercontent.com/89407228/232431061-a31028be-3803-417b-9d22-121ff9ec512c.PNG">
 <h3>At the start of th eprogram it the aplication fetches all the values from every currency java class item  </h3>
